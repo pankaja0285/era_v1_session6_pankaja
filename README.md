@@ -2,15 +2,18 @@
 ![Step 1](backprop_step1.PNG)
 <p>Here we are defining all the nodes of the neural network so we can use it to further along the 
 way to the next step in backward propagation</p>
+
 ![Step 2](backprop_step2.PNG)
 <p>Here we are calculating the partial derivatives
 line 2: Since E2 is not dependent on w5, we are excluding it and calculate only for E1 which is dependent on w5
 line 4: we find the partial derivative E1 w.r.t a_o1
 line 5: we find the partial derivative of o1 w.r.t of w5
 </p>
+
 ![Step 3](backprop_step3.PNG)
 <p>Here we are calculating the E_Total w.r.t w5, w6, w7 and w8
 </p>
+
 ![Step 4](backprop_step4.PNG)
 <p>Here we are calculating the E_Total w.r.t w5, w6, w7 and w8
 </p>
