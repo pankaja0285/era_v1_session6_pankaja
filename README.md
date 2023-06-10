@@ -18,7 +18,7 @@ line 5: we find the partial derivative of o1 w.r.t of w5
 <p>Here we are calculating the E_Total w.r.t w5, w6, w7 and w8
 </p>
 <p>
-**NOTE:** Rest of the steps have been marked with post-it like sticky comments in the Excel file
+<b>NOTE:</b> Rest of the steps have been marked with post-it like sticky comments in the Excel file
 </p>
 
 ### Part - 2: 
