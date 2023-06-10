@@ -55,7 +55,7 @@ jupyter notebook
 **NOTE:** Follow along the **S6.ipynb** - notebook cells and run sequentially to see the outputs.
 
 ### Notebook execution sequence of sections is as follows:
-**File used: S5.ipynb**
+**File used: S6.ipynb**
  1. Following the section Model - 1 for all the set up of params and training and plotting the 
     accuracies and losses
  2. Following the section Model - 2 for all the set up of params and training and plotting the 
